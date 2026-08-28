@@ -12,6 +12,11 @@ Or by sharing this tutorial with your friends!
 
 With thanks to https://github.com/MariaLetta/free-gophers-pack for the great Gopher art
 
+Note: This repository has been updated to Go version 1.27
+No code changes were required for this update.
+
+If you would like to use the new WaitGroup.Go syntax that was introduced in version 1.25 you can substitiute that for the older, more verbose, syntax used in the graceful shutdown portion.
+
 ## A Word of Warning
 The code provided here is intended to be a way for you to figure out where you went wrong if necessary.
 
